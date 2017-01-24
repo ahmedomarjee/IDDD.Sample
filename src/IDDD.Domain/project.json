@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0-*",
+  "description": "IDDD.Domain Class Library",
+
+  "dependencies": {
+    "IDDD.Common.Domain": "1.0.0-*",
+    "Microsoft.AspNetCore.Identity": "1.1.0",
+    "Microsoft.Bcl": "1.1.9"
+  },
+
+  "frameworks": {
+    "net451": {}
+  }
+}
