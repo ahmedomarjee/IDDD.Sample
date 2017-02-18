@@ -1,9 +1,9 @@
 ﻿using IDDD.App.Cqs.Commands.Client;
-using IDDD.Common.Cqs;
-using IDDD.Common.Cqs.Command;
-using IDDD.Common.Domain;
+using IDDD.Core.Cqs;
+using IDDD.Core.Cqs.Command;
+using IDDD.Core.Domain;
 using IDDD.Domain.Membership.Clients;
-using IDDD.Common;
+using IDDD.Core;
 using System;
 using System.Linq;
 using System.Threading.Tasks;

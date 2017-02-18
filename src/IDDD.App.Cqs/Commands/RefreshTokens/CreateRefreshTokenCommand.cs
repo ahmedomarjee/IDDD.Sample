@@ -1,5 +1,5 @@
 using System;
-using IDDD.Common.Cqs.Command;
+using IDDD.Core.Cqs.Command;
 using System.ComponentModel.DataAnnotations;
 
 namespace IDDD.App.Cqs.Commands.RefreshTokens

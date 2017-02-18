@@ -2,10 +2,10 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using IDDD.Common.Cqs.Query;
-using IDDD.Common.Cqs.Command;
+using IDDD.Core.Cqs.Query;
+using IDDD.Core.Cqs.Command;
 using IDDD.App.Cqs.Commands.Users;
-using IDDD.Common;
+using IDDD.Core;
 
 namespace IDDD.Web.Api.Controllers.Api
 {

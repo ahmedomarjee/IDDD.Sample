@@ -4,7 +4,7 @@
 
   "dependencies": {
     "IDDD.App": "1.0.0-*",
-    "IDDD.Common.Cqs": "1.0.0-*",
+    "IDDD.Core.Cqs": "1.0.0-*",
     "IDDD.Domain": "1.0.0-*",
     "FluentValidation": "6.4.0-beta9",
     "Microsoft.AspNetCore.Mvc": "1.1.0-*",

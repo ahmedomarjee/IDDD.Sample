@@ -10,9 +10,9 @@ using Microsoft.Extensions.Configuration;
 using AuthenticationProperties = Microsoft.AspNetCore.Http.Authentication.AuthenticationProperties;
 using IDDD.App.Cqs.QueryResult.Users;
 using IDDD.App.Cqs.Commands.RefreshTokens;
-using IDDD.Common.Cqs.Query;
+using IDDD.Core.Cqs.Query;
 using IDDD.App;
-using IDDD.Common;
+using IDDD.Core;
 
 namespace IDDD.Web.Api.Infrastructure
 {

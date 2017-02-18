@@ -9,7 +9,7 @@
     "NETStandard.Library": "1.6.1",
     "IDDD.Domain": "1.0.0-*",
     "IDDD.Infrastructure": "1.0.0-*",
-    "IDDD.Common": "1.0.0-*",
+    "IDDD.Core": "1.0.0-*",
     "Microsoft.Extensions.DependencyInjection.Abstractions": "1.1.0-*",
     "Microsoft.AspNetCore.Identity": "1.1.0-*",
     "Scrutor": "1.10.0",

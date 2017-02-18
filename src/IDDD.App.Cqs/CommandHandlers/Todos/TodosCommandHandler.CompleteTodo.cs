@@ -1,6 +1,6 @@
-﻿using IDDD.Common.Cqs.Command;
+﻿using IDDD.Core.Cqs.Command;
 using System.Threading.Tasks;
-using IDDD.Common;
+using IDDD.Core;
 using IDDD.Domain.Todos;
 using IDDD.App.Cqs.Commands.Todos;
 

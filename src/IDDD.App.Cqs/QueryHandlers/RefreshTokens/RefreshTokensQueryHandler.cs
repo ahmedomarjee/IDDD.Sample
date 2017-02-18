@@ -1,6 +1,6 @@
 using IDDD.App.Cqs.Queries.RefreshTokens;
 using IDDD.App.Cqs.QueryResult.RefreshTokens;
-using IDDD.Common.Cqs.Query;
+using IDDD.Core.Cqs.Query;
 using IDDD.Domain.Membership.Tokens;
 using System;
 using System.Collections.Generic;

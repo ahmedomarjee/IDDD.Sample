@@ -1,5 +1,5 @@
 ﻿using IDDD.App.Cqs.QueryResult.Todos;
-using IDDD.Common.Cqs.Query;
+using IDDD.Core.Cqs.Query;
 using FluentValidation;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;

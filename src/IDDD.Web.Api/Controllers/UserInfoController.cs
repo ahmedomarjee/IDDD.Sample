@@ -1,6 +1,6 @@
 ﻿using IDDD.App.Cqs.Queries.Users;
-using IDDD.Common.Cqs.Command;
-using IDDD.Common.Cqs.Query;
+using IDDD.Core.Cqs.Command;
+using IDDD.Core.Cqs.Query;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;

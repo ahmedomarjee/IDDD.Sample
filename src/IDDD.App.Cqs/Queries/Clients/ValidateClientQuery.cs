@@ -1,5 +1,5 @@
 ﻿using IDDD.App.Cqs.QueryResult.Clients;
-using IDDD.Common.Cqs.Query;
+using IDDD.Core.Cqs.Query;
 
 namespace IDDD.App.Cqs.Queries.Clients
 {

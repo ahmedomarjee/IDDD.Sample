@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
-using IDDD.Common.Cqs.Query;
+using IDDD.Core.Cqs.Query;
 using IDDD.Domain.Membership;
 using System;
 using IDDD.App.Cqs.Queries.Users;

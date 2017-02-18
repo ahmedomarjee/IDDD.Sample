@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace IDDD.Domain.Todos
 {
-    public class TodoId: IDDD.Common.Domain.Identity
+    public class TodoId: IDDD.Core.Domain.Identity
     {
         public TodoId()
         {

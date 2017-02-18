@@ -1,10 +1,10 @@
-using IDDD.Common.Cqs.Query;
+using IDDD.Core.Cqs.Query;
 using System.Threading.Tasks;
 using IDDD.Domain.Membership.Tokens;
 using IDDD.App.Cqs.Queries.RefreshTokens;
 using System.Linq;
-using IDDD.Common.Cqs;
-using IDDD.Common;
+using IDDD.Core.Cqs;
+using IDDD.Core;
 
 namespace IDDD.App.Cqs.QueryHandlers.RefreshTokens
 {

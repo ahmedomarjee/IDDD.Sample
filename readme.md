@@ -9,7 +9,7 @@ MongoDB is used as persistance store with custom implementation of the AspNetCor
 
 ### Prerequisites ###
  - In order to run this sample should install MongoDB instance and apply necessary changes in appsettings.json
- - Testing the endpoints can be done with Postman - postman-readme or IDDD.postman_collection.json.
+ - Testing the endpoints can be done with Postman - postman-readme.
  
 ### Solution ###
 Solution | Author(s)

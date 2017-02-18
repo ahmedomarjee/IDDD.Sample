@@ -1,13 +1,13 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
-using IDDD.Common.Cqs.Command;
+using IDDD.Core.Cqs.Command;
 using IDDD.Domain.Membership;
 using IDDD.App.Cqs.Commands.Users;
 using System;
 using System.Text.Encodings.Web;
 using IDDD.Domain.Membership.Clients;
 using System.Linq;
-using IDDD.Common;
+using IDDD.Core;
 using IDDD.Domain.Messaging;
 
 namespace IDDD.App.Cqs.CommandHandlers.Users

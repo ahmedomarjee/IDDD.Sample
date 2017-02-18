@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using IDDD.App.Cqs.Commands.Client;
-using IDDD.Common.Cqs.Command;
+using IDDD.Core.Cqs.Command;
 using Microsoft.AspNetCore.Authorization;
-using IDDD.Common;
+using IDDD.Core;
 
 // For more information on enabling Web API for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
 

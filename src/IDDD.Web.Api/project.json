@@ -5,11 +5,11 @@
   "dependencies": {
     "IDDD.App": "1.0.0",
     "IDDD.App.Cqs": "1.0.0",
-    "IDDD.Common.Cqs": "1.0.0",
+    "IDDD.Core.Cqs": "1.0.0",
     "IDDD.Infrastructure": "1.0.0",
     "IDDD.Logging.Mongo": "1.0.0",
     "IDDD.Infrastructure.Mongo": "1.0.0",
-    "IDDD.Common": "1.0.0",
+    "IDDD.Core": "1.0.0",
     "Microsoft.AspNetCore.Http": "1.1.0",
     "Microsoft.AspNetCore.Mvc": "1.1.0-*",
     "Microsoft.AspNetCore.Server.IISIntegration": "1.1.0-*",

@@ -1,4 +1,4 @@
-﻿using IDDD.Common.Domain;
+﻿using IDDD.Core.Domain;
 using IDDD.Domain.Membership.Clients;
 using System;
 using System.Collections.Generic;

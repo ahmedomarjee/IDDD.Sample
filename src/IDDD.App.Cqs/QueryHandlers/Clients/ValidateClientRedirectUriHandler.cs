@@ -1,10 +1,10 @@
-﻿using IDDD.Common.Cqs.Query;
+﻿using IDDD.Core.Cqs.Query;
 using System.Threading.Tasks;
 using IDDD.Domain.Membership.Clients;
 using IDDD.App.Cqs.Queries.Clients;
 using System.Threading;
-using IDDD.Common.Cqs;
-using IDDD.Common;
+using IDDD.Core.Cqs;
+using IDDD.Core;
 
 namespace IDDD.App.Cqs.QueryHandlers.Clients
 {

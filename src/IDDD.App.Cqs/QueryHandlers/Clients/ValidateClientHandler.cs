@@ -1,5 +1,5 @@
 ﻿using System.Threading.Tasks;
-using IDDD.Common.Cqs.Query;
+using IDDD.Core.Cqs.Query;
 using IDDD.Domain.Membership.Clients;
 using IDDD.App.Cqs.QueryResult.Clients;
 using IDDD.App.Cqs.Queries.Clients;

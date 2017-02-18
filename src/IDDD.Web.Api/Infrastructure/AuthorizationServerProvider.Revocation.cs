@@ -60,7 +60,7 @@ namespace IDDD.Web.Api.Infrastructure
             var identifier = context.Ticket.GetTicketId();
 
             var cmd = new DeleteRefreshTokenByTokenCommand(identifier);
-            var result = await ExecuteCommand<DeleteRefreshTokenByTokenCommand, Common.Result>(context, cmd);
+            var result = await ExecuteCommand<DeleteRefreshTokenByTokenCommand, Core.Result>(context, cmd);
             if (result.Succeeded)
             {
                 context.Revoked = true;

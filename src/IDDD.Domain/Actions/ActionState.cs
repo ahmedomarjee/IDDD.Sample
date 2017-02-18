@@ -1,5 +1,5 @@
-﻿using IDDD.Common.Domain;
-using IDDD.Common;
+﻿using IDDD.Core.Domain;
+using IDDD.Core;
 using System.Collections.Generic;
 
 namespace IDDD.Domain.Actions

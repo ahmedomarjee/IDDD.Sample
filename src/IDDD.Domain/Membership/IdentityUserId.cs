@@ -1,6 +1,6 @@
 ﻿namespace IDDD.Domain.Membership
 {
-    public class IdentityUserId: Common.Domain.Identity
+    public class IdentityUserId: Core.Domain.Identity
     {
         public IdentityUserId() { }
 

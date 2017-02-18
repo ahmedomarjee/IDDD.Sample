@@ -1,6 +1,6 @@
-﻿using IDDD.Common.Domain;
+﻿using IDDD.Core.Domain;
 using IDDD.Domain.Actions;
-using IDDD.Common;
+using IDDD.Core;
 using System.Collections.Generic;
 
 namespace IDDD.Domain.Todos

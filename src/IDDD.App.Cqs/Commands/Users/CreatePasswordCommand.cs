@@ -1,4 +1,4 @@
-﻿using IDDD.Common.Cqs.Command;
+﻿using IDDD.Core.Cqs.Command;
 using System.ComponentModel.DataAnnotations;
 using System;
 using System.Collections.Generic;

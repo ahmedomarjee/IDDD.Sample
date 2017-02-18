@@ -1,4 +1,4 @@
-﻿using IDDD.Common.Cqs.Command;
+﻿using IDDD.Core.Cqs.Command;
 using IDDD.Domain.Todos;
 using FluentValidation;
 using System;

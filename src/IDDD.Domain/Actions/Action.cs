@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using IDDD.Common.Domain;
+using IDDD.Core.Domain;
 
 namespace IDDD.Domain.Actions
 {

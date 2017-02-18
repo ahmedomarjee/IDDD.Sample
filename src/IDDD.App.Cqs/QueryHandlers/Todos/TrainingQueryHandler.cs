@@ -1,7 +1,7 @@
 ﻿using IDDD.App.Cqs.Queries.Todos;
 using IDDD.App.Cqs.QueryResult.Todos;
-using IDDD.Common;
-using IDDD.Common.Cqs.Query;
+using IDDD.Core;
+using IDDD.Core.Cqs.Query;
 using IDDD.Domain.Todos;
 using System.Collections.Generic;
 using System.Linq;

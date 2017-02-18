@@ -1,5 +1,5 @@
-﻿using IDDD.Common.Cqs.Command;
-using IDDD.Common.Cqs.Query;
+﻿using IDDD.Core.Cqs.Command;
+using IDDD.Core.Cqs.Query;
 using Microsoft.Extensions.DependencyInjection;
 using Scrutor;
 

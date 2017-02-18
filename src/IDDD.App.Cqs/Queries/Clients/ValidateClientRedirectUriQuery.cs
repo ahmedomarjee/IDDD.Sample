@@ -1,6 +1,6 @@
-﻿using IDDD.Common.Cqs;
-using IDDD.Common.Cqs.Query;
-using IDDD.Common;
+﻿using IDDD.Core.Cqs;
+using IDDD.Core.Cqs.Query;
+using IDDD.Core;
 
 namespace IDDD.App.Cqs.Queries.Clients
 {

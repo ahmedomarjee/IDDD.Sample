@@ -1,4 +1,4 @@
-﻿using IDDD.Common.Cqs.Command;
+﻿using IDDD.Core.Cqs.Command;
 using System.Collections.Generic;
 using System.Linq;
 using IDDD.Domain.Membership.Clients;

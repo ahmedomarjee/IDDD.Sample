@@ -1,8 +1,8 @@
 using IDDD.App.Cqs.Commands.RefreshTokens;
-using IDDD.Common.Cqs;
-using IDDD.Common.Cqs.Command;
+using IDDD.Core.Cqs;
+using IDDD.Core.Cqs.Command;
 using IDDD.Domain.Membership.Tokens;
-using IDDD.Common;
+using IDDD.Core;
 using System.Linq;
 using System.Threading.Tasks;
 

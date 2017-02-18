@@ -1,12 +1,12 @@
 using System;
 using System.Threading.Tasks;
-using IDDD.Common.Cqs.Command;
+using IDDD.Core.Cqs.Command;
 using IDDD.Domain.Membership.Tokens;
 using IDDD.App.Cqs.Commands.RefreshTokens;
 using System.Linq;
-using IDDD.Common.Cqs;
-using IDDD.Common.Domain;
-using IDDD.Common;
+using IDDD.Core.Cqs;
+using IDDD.Core.Domain;
+using IDDD.Core;
 
 namespace IDDD.App.Cqs.CommandHandlers.RefreshTokens
 {

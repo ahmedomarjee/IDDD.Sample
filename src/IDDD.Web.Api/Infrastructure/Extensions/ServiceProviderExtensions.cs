@@ -1,5 +1,5 @@
-﻿using IDDD.Common.Cqs.Command;
-using IDDD.Common.Cqs.Query;
+﻿using IDDD.Core.Cqs.Command;
+using IDDD.Core.Cqs.Query;
 using System;
 
 namespace IDDD.Web.Api.Infrastructure

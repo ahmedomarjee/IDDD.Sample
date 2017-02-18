@@ -1,8 +1,8 @@
 ﻿using IDDD.App.Cqs.Commands.Users;
-using IDDD.Common.Cqs;
-using IDDD.Common.Cqs.Command;
+using IDDD.Core.Cqs;
+using IDDD.Core.Cqs.Command;
 using IDDD.Domain.Membership;
-using IDDD.Common;
+using IDDD.Core;
 using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;

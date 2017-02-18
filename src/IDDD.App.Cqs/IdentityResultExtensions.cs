@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 using Microsoft.AspNetCore.Identity;
-using IDDD.Common;
+using IDDD.Core;
 
 namespace IDDD.App.Cqs
 {

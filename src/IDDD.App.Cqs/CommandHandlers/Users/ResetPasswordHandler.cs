@@ -1,11 +1,11 @@
 ﻿using IDDD.App.Cqs.Commands.Users;
-using IDDD.Common.Cqs;
-using IDDD.Common.Cqs.Command;
-using IDDD.Common.Domain;
+using IDDD.Core.Cqs;
+using IDDD.Core.Cqs.Command;
+using IDDD.Core.Domain;
 using IDDD.Domain.Membership;
 using IDDD.Domain.Membership.Clients;
 using IDDD.Domain.Messaging;
-using IDDD.Common;
+using IDDD.Core;
 using Microsoft.AspNetCore.Identity;
 using System;
 using System.Linq;
